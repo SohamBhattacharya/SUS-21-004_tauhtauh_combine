@@ -1,0 +1,506 @@
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+>>> method used is FitDiagnostics
+SimNLL created with 0 channels, 31 generic constraints, 231 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [stat2016_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB13] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2016_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB6] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB13] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB5] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB1] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB6] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2018_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB1] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB6] at boundary. 
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 198.31 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB1_CMS_fakeObs, pdf pdf_binch1_card2016_SRB1 = 198.308
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 198.31 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 211.29 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB2_CMS_fakeObs, pdf pdf_binch1_card2016_SRB2 = 211.29
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 211.29 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 32.656 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB3_CMS_fakeObs, pdf pdf_binch1_card2016_SRB3 = 32.6555
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 32.656 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 19.289 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB4_CMS_fakeObs, pdf pdf_binch1_card2016_SRB4 = 19.2894
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 19.289 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 14.075 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB5_CMS_fakeObs, pdf pdf_binch1_card2016_SRB5 = 14.0748
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 14.075 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 61.735 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB6_CMS_fakeObs, pdf pdf_binch1_card2016_SRB6 = 61.735
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 61.735 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 50.074 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB7_CMS_fakeObs, pdf pdf_binch1_card2016_SRB7 = 50.0744
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 50.074 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.2461 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB8_CMS_fakeObs, pdf pdf_binch1_card2016_SRB8 = 4.24615
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.2461 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 1.7991 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB9_CMS_fakeObs, pdf pdf_binch1_card2016_SRB9 = 1.79908
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 1.7991 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.5944 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB10_CMS_fakeObs, pdf pdf_binch1_card2016_SRB10 = 3.59437
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.5944 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7798 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB11_CMS_fakeObs, pdf pdf_binch1_card2016_SRB11 = 2.77975
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7798 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.5712 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB12_CMS_fakeObs, pdf pdf_binch1_card2016_SRB12 = 9.57116
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.5712 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.1686 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB13_CMS_fakeObs, pdf pdf_binch1_card2016_SRB13 = 4.16855
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.1686 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.99418 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB14_CMS_fakeObs, pdf pdf_binch1_card2016_SRB14 = 0.99419
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.99418 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.6578 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB15_CMS_fakeObs, pdf pdf_binch1_card2016_SRB15 = 3.65774
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.6578 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 419.86 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB1_CMS_fakeObs, pdf pdf_binch1_card2017_SRB1 = 419.858
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 419.86 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 310.59 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB2_CMS_fakeObs, pdf pdf_binch1_card2017_SRB2 = 310.58
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 310.59 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 33.389 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB3_CMS_fakeObs, pdf pdf_binch1_card2017_SRB3 = 33.389
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 33.389 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.575 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB4_CMS_fakeObs, pdf pdf_binch1_card2017_SRB4 = 25.5749
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.575 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 13.086 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB5_CMS_fakeObs, pdf pdf_binch1_card2017_SRB5 = 13.0863
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 13.086 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 123.7 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB6_CMS_fakeObs, pdf pdf_binch1_card2017_SRB6 = 123.701
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 123.7 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 72.414 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB7_CMS_fakeObs, pdf pdf_binch1_card2017_SRB7 = 72.4136
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 72.414 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 8.9958 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB8_CMS_fakeObs, pdf pdf_binch1_card2017_SRB8 = 8.99581
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 8.9958 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.0737 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB9_CMS_fakeObs, pdf pdf_binch1_card2017_SRB9 = 5.07378
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.0737 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7787 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB10_CMS_fakeObs, pdf pdf_binch1_card2017_SRB10 = 2.77874
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7787 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.7065 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB11_CMS_fakeObs, pdf pdf_binch1_card2017_SRB11 = 7.70653
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.7065 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.87 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB12_CMS_fakeObs, pdf pdf_binch1_card2017_SRB12 = 25.8694
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.87 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.7851 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB13_CMS_fakeObs, pdf pdf_binch1_card2017_SRB13 = 3.78518
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.7851 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.3862 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB14_CMS_fakeObs, pdf pdf_binch1_card2017_SRB14 = 2.38622
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.3862 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.3144 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB15_CMS_fakeObs, pdf pdf_binch1_card2017_SRB15 = 4.31442
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.3144 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 523.45 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB1_CMS_fakeObs, pdf pdf_binch1_card2018_SRB1 = 523.446
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 523.45 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 389.61 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB2_CMS_fakeObs, pdf pdf_binch1_card2018_SRB2 = 389.611
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 389.61 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 31.561 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB3_CMS_fakeObs, pdf pdf_binch1_card2018_SRB3 = 31.5608
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 31.561 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 27.142 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB4_CMS_fakeObs, pdf pdf_binch1_card2018_SRB4 = 27.1421
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 27.142 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 20.098 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB5_CMS_fakeObs, pdf pdf_binch1_card2018_SRB5 = 20.098
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 20.098 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 139.08 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB6_CMS_fakeObs, pdf pdf_binch1_card2018_SRB6 = 139.079
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 139.08 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 98.347 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB7_CMS_fakeObs, pdf pdf_binch1_card2018_SRB7 = 98.3473
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 98.347 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.9079 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB8_CMS_fakeObs, pdf pdf_binch1_card2018_SRB8 = 9.90781
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.9079 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.58 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB9_CMS_fakeObs, pdf pdf_binch1_card2018_SRB9 = 7.57995
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.58 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.0893 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB10_CMS_fakeObs, pdf pdf_binch1_card2018_SRB10 = 4.08927
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.0893 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 16.552 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB11_CMS_fakeObs, pdf pdf_binch1_card2018_SRB11 = 16.552
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 16.552 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 15.994 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB12_CMS_fakeObs, pdf pdf_binch1_card2018_SRB12 = 15.994
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 15.994 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.7861 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB13_CMS_fakeObs, pdf pdf_binch1_card2018_SRB13 = 4.78608
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.7861 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.19709 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB14_CMS_fakeObs, pdf pdf_binch1_card2018_SRB14 = 0.197091
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.19709 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.8589 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB15_CMS_fakeObs, pdf pdf_binch1_card2018_SRB15 = 5.85889
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.8589 with Poisson errors, interpolating between Poisson errors of adjacent integer
+SimNLL created with 45 channels, 31 generic constraints, 231 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 45 channels, 31 generic constraints, 231 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [stat2016_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB13] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2016_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB6] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB13] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB5] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB1] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB6] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2018_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB1] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB6] at boundary. 
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 198.31 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB1_CMS_fakeObs, pdf pdf_binch1_card2016_SRB1__model_bonly_ = 198.778
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 198.31 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 211.29 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB2_CMS_fakeObs, pdf pdf_binch1_card2016_SRB2__model_bonly_ = 212.884
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 211.29 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 32.656 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB3_CMS_fakeObs, pdf pdf_binch1_card2016_SRB3__model_bonly_ = 32.8787
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 32.656 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 19.289 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB4_CMS_fakeObs, pdf pdf_binch1_card2016_SRB4__model_bonly_ = 19.5631
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 19.289 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 14.075 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB5_CMS_fakeObs, pdf pdf_binch1_card2016_SRB5__model_bonly_ = 12.032
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 14.075 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 61.735 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB6_CMS_fakeObs, pdf pdf_binch1_card2016_SRB6__model_bonly_ = 62.3728
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 61.735 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 50.074 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB7_CMS_fakeObs, pdf pdf_binch1_card2016_SRB7__model_bonly_ = 50.5608
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 50.074 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.2461 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB8_CMS_fakeObs, pdf pdf_binch1_card2016_SRB8__model_bonly_ = 4.1859
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.2461 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 1.7991 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB9_CMS_fakeObs, pdf pdf_binch1_card2016_SRB9__model_bonly_ = 1.84056
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 1.7991 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.5944 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB10_CMS_fakeObs, pdf pdf_binch1_card2016_SRB10__model_bonly_ = 3.24604
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.5944 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7798 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB11_CMS_fakeObs, pdf pdf_binch1_card2016_SRB11__model_bonly_ = 2.74088
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7798 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.5712 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB12_CMS_fakeObs, pdf pdf_binch1_card2016_SRB12__model_bonly_ = 10.0529
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.5712 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.1686 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB13_CMS_fakeObs, pdf pdf_binch1_card2016_SRB13__model_bonly_ = 4.13756
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.1686 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.99418 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB14_CMS_fakeObs, pdf pdf_binch1_card2016_SRB14__model_bonly_ = 0.988173
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.99418 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.6578 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB15_CMS_fakeObs, pdf pdf_binch1_card2016_SRB15__model_bonly_ = 2.05503
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.6578 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 419.86 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB1_CMS_fakeObs, pdf pdf_binch1_card2017_SRB1__model_bonly_ = 421.369
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 419.86 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 310.59 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB2_CMS_fakeObs, pdf pdf_binch1_card2017_SRB2__model_bonly_ = 312.238
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 310.59 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 33.389 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB3_CMS_fakeObs, pdf pdf_binch1_card2017_SRB3__model_bonly_ = 33.3801
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 33.389 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.575 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB4_CMS_fakeObs, pdf pdf_binch1_card2017_SRB4__model_bonly_ = 25.7537
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.575 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 13.086 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB5_CMS_fakeObs, pdf pdf_binch1_card2017_SRB5__model_bonly_ = 11.1469
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 13.086 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 123.7 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB6_CMS_fakeObs, pdf pdf_binch1_card2017_SRB6__model_bonly_ = 124.37
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 123.7 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 72.414 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB7_CMS_fakeObs, pdf pdf_binch1_card2017_SRB7__model_bonly_ = 72.6775
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 72.414 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 8.9958 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB8_CMS_fakeObs, pdf pdf_binch1_card2017_SRB8__model_bonly_ = 8.87809
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 8.9958 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.0737 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB9_CMS_fakeObs, pdf pdf_binch1_card2017_SRB9__model_bonly_ = 5.18183
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.0737 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7787 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB10_CMS_fakeObs, pdf pdf_binch1_card2017_SRB10__model_bonly_ = 2.34663
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7787 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.7065 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB11_CMS_fakeObs, pdf pdf_binch1_card2017_SRB11__model_bonly_ = 7.73655
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.7065 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.87 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB12_CMS_fakeObs, pdf pdf_binch1_card2017_SRB12__model_bonly_ = 26.3401
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.87 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.7851 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB13_CMS_fakeObs, pdf pdf_binch1_card2017_SRB13__model_bonly_ = 3.6259
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.7851 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.3862 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB14_CMS_fakeObs, pdf pdf_binch1_card2017_SRB14__model_bonly_ = 2.25451
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.3862 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.3144 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB15_CMS_fakeObs, pdf pdf_binch1_card2017_SRB15__model_bonly_ = 3.19493
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.3144 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 523.45 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB1_CMS_fakeObs, pdf pdf_binch1_card2018_SRB1__model_bonly_ = 524.331
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 523.45 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 389.61 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB2_CMS_fakeObs, pdf pdf_binch1_card2018_SRB2__model_bonly_ = 392.572
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 389.61 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 31.561 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB3_CMS_fakeObs, pdf pdf_binch1_card2018_SRB3__model_bonly_ = 31.1057
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 31.561 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 27.142 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB4_CMS_fakeObs, pdf pdf_binch1_card2018_SRB4__model_bonly_ = 27.4515
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 27.142 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 20.098 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB5_CMS_fakeObs, pdf pdf_binch1_card2018_SRB5__model_bonly_ = 17.8511
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 20.098 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 139.08 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB6_CMS_fakeObs, pdf pdf_binch1_card2018_SRB6__model_bonly_ = 139.268
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 139.08 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 98.347 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB7_CMS_fakeObs, pdf pdf_binch1_card2018_SRB7__model_bonly_ = 98.5682
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 98.347 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.9079 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB8_CMS_fakeObs, pdf pdf_binch1_card2018_SRB8__model_bonly_ = 10.0813
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.9079 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.58 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB9_CMS_fakeObs, pdf pdf_binch1_card2018_SRB9__model_bonly_ = 7.78327
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.58 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.0893 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB10_CMS_fakeObs, pdf pdf_binch1_card2018_SRB10__model_bonly_ = 3.60733
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.0893 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 16.552 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB11_CMS_fakeObs, pdf pdf_binch1_card2018_SRB11__model_bonly_ = 16.739
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 16.552 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 15.994 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB12_CMS_fakeObs, pdf pdf_binch1_card2018_SRB12__model_bonly_ = 16.2296
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 15.994 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.7861 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB13_CMS_fakeObs, pdf pdf_binch1_card2018_SRB13__model_bonly_ = 4.31842
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.7861 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.19709 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB14_CMS_fakeObs, pdf pdf_binch1_card2018_SRB14__model_bonly_ = 0.132309
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.19709 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.8589 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB15_CMS_fakeObs, pdf pdf_binch1_card2018_SRB15__model_bonly_ = 3.93327
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.8589 with Poisson errors, interpolating between Poisson errors of adjacent integer
+SimNLL created with 45 channels, 31 generic constraints, 231 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [stat2016_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB13] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2016_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB6] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB13] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB5] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB1] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB6] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2018_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB1] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB6] at boundary. 
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 198.31 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB1_CMS_fakeObs, pdf pdf_binch1_card2016_SRB1 = 198.307
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 198.31 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 211.29 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB2_CMS_fakeObs, pdf pdf_binch1_card2016_SRB2 = 211.292
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 211.29 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 32.656 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB3_CMS_fakeObs, pdf pdf_binch1_card2016_SRB3 = 32.6583
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 32.656 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 19.289 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB4_CMS_fakeObs, pdf pdf_binch1_card2016_SRB4 = 19.2893
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 19.289 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 14.075 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB5_CMS_fakeObs, pdf pdf_binch1_card2016_SRB5 = 14.0759
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 14.075 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 61.735 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB6_CMS_fakeObs, pdf pdf_binch1_card2016_SRB6 = 61.7399
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 61.735 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 50.074 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB7_CMS_fakeObs, pdf pdf_binch1_card2016_SRB7 = 50.0777
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 50.074 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.2461 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB8_CMS_fakeObs, pdf pdf_binch1_card2016_SRB8 = 4.24664
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.2461 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 1.7991 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB9_CMS_fakeObs, pdf pdf_binch1_card2016_SRB9 = 1.79918
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 1.7991 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.5944 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB10_CMS_fakeObs, pdf pdf_binch1_card2016_SRB10 = 3.59628
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.5944 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7798 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB11_CMS_fakeObs, pdf pdf_binch1_card2016_SRB11 = 2.77996
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7798 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.5712 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB12_CMS_fakeObs, pdf pdf_binch1_card2016_SRB12 = 9.57292
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.5712 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.1686 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB13_CMS_fakeObs, pdf pdf_binch1_card2016_SRB13 = 4.17311
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.1686 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.99418 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB14_CMS_fakeObs, pdf pdf_binch1_card2016_SRB14 = 0.994395
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.99418 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.6578 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2016_SRB15_CMS_fakeObs, pdf pdf_binch1_card2016_SRB15 = 3.65826
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2016_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.6578 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 419.86 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB1_CMS_fakeObs, pdf pdf_binch1_card2017_SRB1 = 419.865
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 419.86 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 310.59 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB2_CMS_fakeObs, pdf pdf_binch1_card2017_SRB2 = 310.595
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 310.59 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 33.389 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB3_CMS_fakeObs, pdf pdf_binch1_card2017_SRB3 = 33.3919
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 33.389 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.575 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB4_CMS_fakeObs, pdf pdf_binch1_card2017_SRB4 = 25.5751
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.575 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 13.086 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB5_CMS_fakeObs, pdf pdf_binch1_card2017_SRB5 = 13.0868
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 13.086 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 123.7 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB6_CMS_fakeObs, pdf pdf_binch1_card2017_SRB6 = 123.709
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 123.7 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 72.414 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB7_CMS_fakeObs, pdf pdf_binch1_card2017_SRB7 = 72.4144
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 72.414 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 8.9958 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB8_CMS_fakeObs, pdf pdf_binch1_card2017_SRB8 = 8.99747
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 8.9958 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.0737 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB9_CMS_fakeObs, pdf pdf_binch1_card2017_SRB9 = 5.07404
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.0737 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7787 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB10_CMS_fakeObs, pdf pdf_binch1_card2017_SRB10 = 2.77891
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.7787 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.7065 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB11_CMS_fakeObs, pdf pdf_binch1_card2017_SRB11 = 7.70667
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.7065 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.87 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB12_CMS_fakeObs, pdf pdf_binch1_card2017_SRB12 = 25.8735
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 25.87 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.7851 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB13_CMS_fakeObs, pdf pdf_binch1_card2017_SRB13 = 3.78561
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 3.7851 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.3862 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB14_CMS_fakeObs, pdf pdf_binch1_card2017_SRB14 = 2.38709
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 2.3862 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.3144 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2017_SRB15_CMS_fakeObs, pdf pdf_binch1_card2017_SRB15 = 4.31472
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2017_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.3144 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 523.45 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB1_CMS_fakeObs, pdf pdf_binch1_card2018_SRB1 = 523.457
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB1_plot__CMS_fakeObs) WARNING: non-integer bin entry 523.45 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 389.61 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB2_CMS_fakeObs, pdf pdf_binch1_card2018_SRB2 = 389.607
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB2_plot__CMS_fakeObs) WARNING: non-integer bin entry 389.61 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 31.561 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB3_CMS_fakeObs, pdf pdf_binch1_card2018_SRB3 = 31.5597
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB3_plot__CMS_fakeObs) WARNING: non-integer bin entry 31.561 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 27.142 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB4_CMS_fakeObs, pdf pdf_binch1_card2018_SRB4 = 27.1428
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB4_plot__CMS_fakeObs) WARNING: non-integer bin entry 27.142 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 20.098 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB5_CMS_fakeObs, pdf pdf_binch1_card2018_SRB5 = 20.0979
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB5_plot__CMS_fakeObs) WARNING: non-integer bin entry 20.098 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 139.08 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB6_CMS_fakeObs, pdf pdf_binch1_card2018_SRB6 = 139.085
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB6_plot__CMS_fakeObs) WARNING: non-integer bin entry 139.08 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 98.347 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB7_CMS_fakeObs, pdf pdf_binch1_card2018_SRB7 = 98.3466
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB7_plot__CMS_fakeObs) WARNING: non-integer bin entry 98.347 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.9079 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB8_CMS_fakeObs, pdf pdf_binch1_card2018_SRB8 = 9.90929
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB8_plot__CMS_fakeObs) WARNING: non-integer bin entry 9.9079 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.58 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB9_CMS_fakeObs, pdf pdf_binch1_card2018_SRB9 = 7.58124
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB9_plot__CMS_fakeObs) WARNING: non-integer bin entry 7.58 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.0893 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB10_CMS_fakeObs, pdf pdf_binch1_card2018_SRB10 = 4.08978
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB10_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.0893 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 16.552 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB11_CMS_fakeObs, pdf pdf_binch1_card2018_SRB11 = 16.554
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB11_plot__CMS_fakeObs) WARNING: non-integer bin entry 16.552 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 15.994 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB12_CMS_fakeObs, pdf pdf_binch1_card2018_SRB12 = 15.9945
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB12_plot__CMS_fakeObs) WARNING: non-integer bin entry 15.994 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.7861 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB13_CMS_fakeObs, pdf pdf_binch1_card2018_SRB13 = 4.78643
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB13_plot__CMS_fakeObs) WARNING: non-integer bin entry 4.7861 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.19709 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB14_CMS_fakeObs, pdf pdf_binch1_card2018_SRB14 = 0.197106
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB14_plot__CMS_fakeObs) WARNING: non-integer bin entry 0.19709 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.8589 with Poisson errors, interpolating between Poisson errors of adjacent integer
+[utils::makePlots] Number of events for pdf in ch1_card2018_SRB15_CMS_fakeObs, pdf pdf_binch1_card2018_SRB15 = 5.85936
+[#0] WARNING:Plotting -- RooHist::addBin(ch1_card2018_SRB15_plot__CMS_fakeObs) WARNING: non-integer bin entry 5.8589 with Poisson errors, interpolating between Poisson errors of adjacent integer
+
+ --- FitDiagnostics ---
+Best fit r: 1.00011  -0.266948/+0.314888  (68% CL)
+Done in 51.92 min (cpu), 51.98 min (real)

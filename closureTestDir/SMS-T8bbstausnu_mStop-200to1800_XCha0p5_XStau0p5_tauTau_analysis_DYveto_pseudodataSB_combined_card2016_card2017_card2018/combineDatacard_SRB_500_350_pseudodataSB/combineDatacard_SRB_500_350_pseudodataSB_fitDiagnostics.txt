@@ -1,0 +1,116 @@
+ <<< Combine >>> 
+>>> random number generator seed is 123456
+>>> method used is FitDiagnostics
+SimNLL created with 0 channels, 35 generic constraints, 227 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [stat2016_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB13] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2016_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB10] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB12] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB13] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB14] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB3] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB8] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB13] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB5] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB12] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB13] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2018_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB12] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB13] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB14] at boundary. 
+SimNLL created with 45 channels, 35 generic constraints, 227 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+SimNLL created with 45 channels, 35 generic constraints, 227 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [stat2016_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB13] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2016_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB10] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB12] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB13] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB14] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB3] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB8] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB13] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB5] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB12] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB13] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2018_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB12] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB13] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB14] at boundary. 
+SimNLL created with 45 channels, 35 generic constraints, 227 fast gaussian constraints, 0 fast poisson constraints, 0 fast group constraints, 
+  [WARNING] Found [stat2016_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2016_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB13] at boundary. 
+  [WARNING] Found [stat2016_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2016_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB10] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB11] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB12] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB13] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB14] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB3] at boundary. 
+  [WARNING] Found [stat2016_sig_SRB8] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB11] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB13] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB5] at boundary. 
+  [WARNING] Found [stat2017_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB12] at boundary. 
+  [WARNING] Found [stat2017_sig_SRB13] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB10] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB14] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB15] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB8] at boundary. 
+  [WARNING] Found [stat2018_DY_SRB9] at boundary. 
+  [WARNING] Found [stat2018_TT_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB14] at boundary. 
+  [WARNING] Found [stat2018_fake_SRB15] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB12] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB13] at boundary. 
+  [WARNING] Found [stat2018_sig_SRB14] at boundary. 
+
+ --- FitDiagnostics ---
+Best fit r: 0.995993  -1.36207/+1.43935  (68% CL)
+Done in 0.17 min (cpu), 0.17 min (real)
